@@ -2,7 +2,7 @@
 BSc. IT (Hons) Undergraduate | Specializing in Data Science | Aspiring Data Scientist | Passionate About Machine Learning &amp; Analytics
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" align="right"/>
 
-# Hi 👋, I'm Paboda Medhani  
+# Hi 👋, I'm Nadali Devindi  
 ### Passionate IT Learner | Embracing the Future of Digital Innovation
 
 ---
@@ -60,7 +60,7 @@ BSc. IT (Hons) Undergraduate | Specializing in Data Science | Aspiring Data Scie
 ## 📬 Let's Connect!
 
 - 💬 Feel free to reach out for collaboration, learning, or just to say hi!  
-- 📧 wampaboda@gmail.com  
+- 📧 nadalidewindi@gmail.com
 
 ---
 
