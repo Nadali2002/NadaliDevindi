@@ -2,7 +2,7 @@
 
 <!-- Girl Coding Animation -->
 <p align="center">
-  <img src="./images/girl-coding.png" width="350"/>
+  <img src="https://cdn.iconscout.com/lottie/premium/preview-lottie/girl-working-on-css-coding-2704035-2244166.gif" width="350" alt="Girl coding animation" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nadali Devindi</h1>
@@ -18,9 +18,9 @@ Passionate About Machine Learning & Data Analytics
 
 I’m an enthusiastic IT undergraduate specializing in Data Science, passionate about technology, problem-solving, and continuous learning.
 
-- 🎓 Undergraduate at **SLIIT**
-- 💻 Coding Enthusiast & Problem Solver
-- 🌱 Learning **JavaScript**, **Node.js**, **Java**, **Python**, **Kotlin**
+- 🎓 Undergraduate at **SLIIT**  
+- 💻 Coding Enthusiast & Problem Solver  
+- 🌱 Learning **JavaScript**, **Node.js**, **Java**, **Python**, **Kotlin**  
 - 🤝 Open to collaborations & new ideas
 
 ---
@@ -28,17 +28,17 @@ I’m an enthusiastic IT undergraduate specializing in Data Science, passionate 
 ## 🛠️ Languages & Technologies
 
 ### **Languages**
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,php,c,cpp,java,mysql,kotlin,r" />
 </p>
 
 ### **Frameworks & Libraries**
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,bootstrap,tailwind" />
 </p>
 
 ### **Tools & Platforms**
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,figma,canva,vscode,xd,mongodb,sqlite" />
 </p>
 
@@ -64,7 +64,7 @@ I’m an enthusiastic IT undergraduate specializing in Data Science, passionate 
 ---
 
 <p align="center">
-  <img src="./images/girl-coding.png" width="250"/>
+  <img src="https://cdn.iconscout.com/lottie/premium/preview-lottie/girl-working-on-css-coding-2704035-2244166.gif" width="250" alt="Girl coding animation" />
 </p>
 
 <p align="center">Thanks for visiting my profile! 🚀</p>
