@@ -1,20 +1,23 @@
-# NadaliDevindi
-BSc. IT (Hons) Undergraduate | Specializing in Data Science | Aspiring Data Scientist | Passionate About Machine Learning & Analytics
+# Nadali Devindi
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" align="right"/>
 
-<!-- Banner / Header -->
+<!-- Banner -->
 <p align="center">
-  <img src="/mnt/data/1af86632-1930-4579-835a-eda745a2842f.png" width="400"/>
+  <img src="/mnt/data/1af86632-1930-4579-835a-eda745a2842f.png" width="420"/>
 </p>
 
-<!-- Professional Undergraduate Illustration -->
+<!-- Illustration -->
 <p align="center">
-  <img src="/mnt/data/1af86632-1930-4579-835a-eda745a2842f.png" width="300"/>
+  <img src="/mnt/data/723daea4-c5f8-430c-bea6-07fe8918a6d7.png" width="300"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Nadali Devindi</h1>
-<h3 align="center">Passionate IT Learner | Aspiring Software Developer | Tech Explorer | Passionate about Machine Learning & Data Analytics</h3>
+
+<h3 align="center">
+Passionate IT Learner | Aspiring Software Developer | Tech Explorer |  
+Passionate about Machine Learning & Data Analytics
+</h3>
 
 ---
 
@@ -25,9 +28,9 @@ I enjoy building useful, creative, and meaningful digital solutions.
 
 - 🎓 Undergraduate at **SLIIT**
 - 💻 **Coding Enthusiast** & **Problem Solver**
-- 🌱 Currently improving skills in **JavaScript**, **Node.js**, **Java**, **Python**, and more
-- 🤝 Open to collaborations, innovative ideas, and exciting projects
-- 🚀 Motivated to explore advanced tech and new programming concepts
+- 🌱 Learning **JavaScript**, **Node.js**, **Java**, **Python**, **Kotlin**
+- 🤝 Open to collaborations & new ideas
+- 🚀 Exploring Data Science & Modern Tech
 
 ---
 
@@ -50,20 +53,20 @@ I enjoy building useful, creative, and meaningful digital solutions.
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nadali2002&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadali2002&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Nadali2002&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadali2002&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nadali2002&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nadali2002&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 - 📧 Email: **nadalidewindi@gmail.com**
 - 💬 Open for collaboration & discussions anytime!
