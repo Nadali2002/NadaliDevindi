@@ -1,10 +1,5 @@
 # Nadali Devindi
 
-<!-- Girl Coding Animation -->
-<p align="center">
-  <img src="https://cdn.iconscout.com/lottie/packs/girl-coding-in-computer-63322/girl-coding-in-computer-40.gif" width="350" alt="Girl coding animation" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Nadali Devindi</h1>
 
 <h3 align="center">
@@ -25,11 +20,15 @@ I’m an enthusiastic IT undergraduate specializing in Data Science, passionate 
 
 ---
 
-## 🛠️ Languages & Technologies
+## 🛠️ Languages, Tools & Fun
 
-### **Languages**
+### **Languages & Icons**
 <p align="center">
+  <!-- Skill icons -->
   <img src="https://skillicons.dev/icons?i=html,css,js,python,php,c,cpp,java,mysql,kotlin,r" />
+  
+  <!-- Static girl coding image -->
+  <img src="https://cdn-icons-png.flaticon.com/512/4140/4140043.png" height="40" alt="Girl Coding Illustration" />
 </p>
 
 ### **Frameworks & Libraries**
@@ -62,9 +61,5 @@ I’m an enthusiastic IT undergraduate specializing in Data Science, passionate 
 - 📧 Email: **nadalidewindi@gmail.com**
 
 ---
-
-<p align="center">
-  <img src="https://cdn.iconscout.com/lottie/packs/girl-coding-in-computer-63322/girl-coding-in-computer-40.gif" width="250" alt="Girl coding animation" />
-</p>
 
 <p align="center">Thanks for visiting my profile! 🚀</p>
