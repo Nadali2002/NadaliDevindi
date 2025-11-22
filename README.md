@@ -1,17 +1,20 @@
 # Nadali Devindi
 
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/4140/4140043.png" width="200" alt="Girl Coding Illustration"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Nadali Devindi</h1>
 
 <h3 align="center">
-Passionate IT Learner | Aspiring Software Developer | Tech Explorer |  
-Passionate About Machine Learning & Data Analytics
+💻 Passionate IT Learner | Aspiring Software Developer | Tech Explorer |  
+🌱 Enthusiastic About Machine Learning & Data Analytics
 </h3>
 
 ---
 
 ## 📌 About Me
-
-I’m an enthusiastic IT undergraduate specializing in Data Science, passionate about technology, problem-solving, and continuous learning.
+I’m an enthusiastic IT undergraduate specializing in **Data Science**, passionate about **technology, problem-solving, and continuous learning**.
 
 - 🎓 Undergraduate at **SLIIT**  
 - 💻 Coding Enthusiast & Problem Solver  
@@ -22,12 +25,9 @@ I’m an enthusiastic IT undergraduate specializing in Data Science, passionate 
 
 ## 🛠️ Languages, Tools & Fun
 
-### **Languages & Icons**
+### **Languages**
 <p align="center">
-  <!-- Skill icons -->
   <img src="https://skillicons.dev/icons?i=html,css,js,python,php,c,cpp,java,mysql,kotlin,r" />
-  
-  <!-- Static girl coding image -->
   <img src="https://cdn-icons-png.flaticon.com/512/4140/4140043.png" height="40" alt="Girl Coding Illustration" />
 </p>
 
@@ -58,7 +58,9 @@ I’m an enthusiastic IT undergraduate specializing in Data Science, passionate 
 
 ## 🌐 Connect With Me
 
-- 📧 Email: **nadalidewindi@gmail.com**
+<p align="center">
+  📧 Email: <b>nadalidewindi@gmail.com</b>
+</p>
 
 ---
 
