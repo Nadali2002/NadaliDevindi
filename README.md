@@ -1,22 +1,15 @@
 # Nadali Devindi
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" align="right"/>
-
-<!-- Banner -->
+<!-- Girl Coding Animation (your uploaded image) -->
 <p align="center">
-  <img src="/mnt/data/1af86632-1930-4579-835a-eda745a2842f.png" width="420"/>
-</p>
-
-<!-- Illustration -->
-<p align="center">
-  <img src="/mnt/data/723daea4-c5f8-430c-bea6-07fe8918a6d7.png" width="300"/>
+  <img src="/mnt/data/4754b54f-b123-438e-92e4-f4e60d9ebb2d.png" width="350"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Nadali Devindi</h1>
 
 <h3 align="center">
 Passionate IT Learner | Aspiring Software Developer | Tech Explorer |  
-Passionate about Machine Learning & Data Analytics
+Passionate About Machine Learning & Data Analytics
 </h3>
 
 ---
@@ -79,7 +72,7 @@ I enjoy building useful, creative, and meaningful digital solutions.
 ---
 
 <p align="center">
-  <img src="/mnt/data/1af86632-1930-4579-835a-eda745a2842f.png" width="300"/>
+  <img src="/mnt/data/4754b54f-b123-438e-92e4-f4e60d9ebb2d.png" width="250"/>
 </p>
 
 <p align="center">
