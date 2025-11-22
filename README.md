@@ -7,9 +7,9 @@ BSc. IT (Hons) Undergraduate | Specializing in Data Science | Aspiring Data Scie
   <img src="https://i.imgur.com/5NqKxJF.gif" width="400"/>
 </p>
 
-<!-- New Animation: girl working on a laptop -->
+<!-- Added beautiful professional girl undergraduate illustration -->
 <p align="center">
-  <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="300"/>
+  <img src="https://i.imgur.com/6YVZP6B.png" width="300"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Nadali Devindi</h1>
