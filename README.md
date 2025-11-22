@@ -2,7 +2,7 @@
 
 <!-- Girl Coding Animation -->
 <p align="center">
-  <img src=" /mnt/data/4754b54f-b123-438e-92e4-f4e60d9ebb2d.png " width="350"/>
+  <img src="./images/girl-coding.png" width="350"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Nadali Devindi</h1>
@@ -64,7 +64,7 @@ I’m an enthusiastic IT undergraduate specializing in Data Science, passionate 
 ---
 
 <p align="center">
-  <img src=" /mnt/data/4754b54f-b123-438e-92e4-f4e60d9ebb2d.png " width="250"/>
+  <img src="./images/girl-coding.png" width="250"/>
 </p>
 
 <p align="center">Thanks for visiting my profile! 🚀</p>
