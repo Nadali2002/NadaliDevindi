@@ -2,7 +2,7 @@
 
 <!-- Girl Coding Animation -->
 <p align="center">
-  <img src="https://cdn.iconscout.com/lottie/premium/preview-lottie/girl-working-on-css-coding-2704035-2244166.gif" width="350" alt="Girl coding animation" />
+  <img src="images/girl-coding.gif" width="350" alt="Girl coding animation" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nadali Devindi</h1>
@@ -64,7 +64,7 @@ I’m an enthusiastic IT undergraduate specializing in Data Science, passionate 
 ---
 
 <p align="center">
-  <img src="https://cdn.iconscout.com/lottie/premium/preview-lottie/girl-working-on-css-coding-2704035-2244166.gif" width="250" alt="Girl coding animation" />
+  <img src="images/girl-coding.gif" width="250" alt="Girl coding animation" />
 </p>
 
 <p align="center">Thanks for visiting my profile! 🚀</p>
