@@ -5,10 +5,15 @@ BSc. IT (Hons) Undergraduate | Specializing in Data Science | Aspiring Data Scie
 <!-- Banner / Header -->
 <p align="center">
   <img src="https://i.imgur.com/5NqKxJF.gif" width="400"/>
-</p
-<h1 align="center">Hi 👋, I'm Nadali Devindi</h1>
-<h3 align="center">Passionate IT Learner | Aspiring Software Developer | Tech Explorer|assionate about Machine Learning & Data Analytics</h3>
+</p>
 
+<!-- Added beautiful professional girl undergraduate illustration -->
+<p align="center">
+  <img src="https://i.imgur.com/6YVZP6B.png" width="300"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Nadali Devindi</h1>
+<h3 align="center">Passionate IT Learner | Aspiring Software Developer | Tech Explorer | Passionate about Machine Learning & Data Analytics</h3>
 
 ---
 
@@ -18,7 +23,7 @@ I’m an enthusiastic IT specialize in Data Science undergraduate passionate abo
 
 - 🎓 Undergraduate at **SLIIT**
 - 💻 **Coding Enthusiast** & **Problem Solver**
-- 🌱 Currently improving skills in **JavaScript**, **Node.js**, **Java**,**Phython**, and more
+- 🌱 Currently improving skills in **JavaScript**, **Node.js**, **Java**, **Phython**, and more
 - 🤝 Always open to collaborations, innovative ideas, and exciting projects
 - 🚀 Motivated to explore advanced tech and new programming concepts
 
