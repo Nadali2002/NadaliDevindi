@@ -1,8 +1,8 @@
 # Nadali Devindi
 
-<!-- Girl Coding Animation (your uploaded image) -->
+<!-- Girl Coding Animation -->
 <p align="center">
-  <img src="/mnt/data/4754b54f-b123-438e-92e4-f4e60d9ebb2d.png" width="350"/>
+  <img src=" /mnt/data/4754b54f-b123-438e-92e4-f4e60d9ebb2d.png " width="350"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Nadali Devindi</h1>
@@ -16,14 +16,12 @@ Passionate About Machine Learning & Data Analytics
 
 ## 📌 About Me
 
-I’m an enthusiastic IT undergraduate specializing in Data Science, passionate about technology, problem-solving, and continuous learning.  
-I enjoy building useful, creative, and meaningful digital solutions.
+I’m an enthusiastic IT undergraduate specializing in Data Science, passionate about technology, problem-solving, and continuous learning.
 
 - 🎓 Undergraduate at **SLIIT**
-- 💻 **Coding Enthusiast** & **Problem Solver**
+- 💻 Coding Enthusiast & Problem Solver
 - 🌱 Learning **JavaScript**, **Node.js**, **Java**, **Python**, **Kotlin**
 - 🤝 Open to collaborations & new ideas
-- 🚀 Exploring Data Science & Modern Tech
 
 ---
 
@@ -62,19 +60,11 @@ I enjoy building useful, creative, and meaningful digital solutions.
 ## 🌐 Connect With Me
 
 - 📧 Email: **nadalidewindi@gmail.com**
-- 💬 Open for collaboration & discussions anytime!
-
----
-
-## 💡 Quote I Follow
-> *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
 
 ---
 
 <p align="center">
-  <img src="/mnt/data/4754b54f-b123-438e-92e4-f4e60d9ebb2d.png" width="250"/>
+  <img src=" /mnt/data/4754b54f-b123-438e-92e4-f4e60d9ebb2d.png " width="250"/>
 </p>
 
-<p align="center">
-  Thanks for visiting my profile! 🚀  
-</p>
+<p align="center">Thanks for visiting my profile! 🚀</p>
