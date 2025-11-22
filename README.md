@@ -1,15 +1,16 @@
 # NadaliDevindi
-BSc. IT (Hons) Undergraduate | Specializing in Data Science | Aspiring Data Scientist | Passionate About Machine Learning &amp; Analytics
+BSc. IT (Hons) Undergraduate | Specializing in Data Science | Aspiring Data Scientist | Passionate About Machine Learning & Analytics
+
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" align="right"/>
 
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://i.imgur.com/5NqKxJF.gif" width="400"/>
+  <img src="/mnt/data/1af86632-1930-4579-835a-eda745a2842f.png" width="400"/>
 </p>
 
-<!-- Added beautiful professional girl undergraduate illustration -->
+<!-- Professional Undergraduate Illustration -->
 <p align="center">
-  <img src="https://i.imgur.com/6YVZP6B.png" width="300"/>
+  <img src="/mnt/data/1af86632-1930-4579-835a-eda745a2842f.png" width="300"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Nadali Devindi</h1>
@@ -19,12 +20,13 @@ BSc. IT (Hons) Undergraduate | Specializing in Data Science | Aspiring Data Scie
 
 ## 📌 About Me
 
-I’m an enthusiastic IT specialize in Data Science undergraduate passionate about technology, problem-solving, and continuous learning. I enjoy building useful, creative, and meaningful digital solutions.
+I’m an enthusiastic IT undergraduate specializing in Data Science, passionate about technology, problem-solving, and continuous learning.  
+I enjoy building useful, creative, and meaningful digital solutions.
 
 - 🎓 Undergraduate at **SLIIT**
 - 💻 **Coding Enthusiast** & **Problem Solver**
-- 🌱 Currently improving skills in **JavaScript**, **Node.js**, **Java**, **Phython**, and more
-- 🤝 Always open to collaborations, innovative ideas, and exciting projects
+- 🌱 Currently improving skills in **JavaScript**, **Node.js**, **Java**, **Python**, and more
+- 🤝 Open to collaborations, innovative ideas, and exciting projects
 - 🚀 Motivated to explore advanced tech and new programming concepts
 
 ---
@@ -74,9 +76,9 @@ I’m an enthusiastic IT specialize in Data Science undergraduate passionate abo
 ---
 
 <p align="center">
-  Thanks for visiting my profile! 🚀  
+  <img src="/mnt/data/1af86632-1930-4579-835a-eda745a2842f.png" width="300"/>
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/SlYQ1R7.png" width="300"/>
+  Thanks for visiting my profile! 🚀  
 </p>
