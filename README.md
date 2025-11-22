@@ -4,7 +4,7 @@ BSc. IT (Hons) Undergraduate | Specializing in Data Science | Aspiring Data Scie
 
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://i.imgur.com/5NqKxJF.gif" width="400"/>
+  <img src="https://i.imgur.com/7Y4F0bO.gif" width="400" alt="aesthetic header"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Nadali Devindi</h1>
